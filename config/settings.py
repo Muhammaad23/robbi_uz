@@ -47,7 +47,11 @@ INSTALLED_APPS = [
     'parklar',
     'masjidlar',
     #
+<<<<<<< HEAD
     'rest_framework'
+=======
+    'rest_framework',
+>>>>>>> 3130906fc2361f44d39eace3b6f55f0578b04852
 ]
 
 MIDDLEWARE = [
